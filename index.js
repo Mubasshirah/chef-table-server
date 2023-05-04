@@ -9,7 +9,12 @@ app.get('/',(req,res)=>{
 });
 app.get('/chef',(req,res)=>{
     res.send(chef);
-})
+});
+app.get('/chef/:id',(req,res)=>{
+    const id=parseInt(req.params.id);
+    const selecteChef=chef.find(n=>n.id===id);
+    res.send(selecteChef);
+});
 app.listen(port,()=>{
     console.log(`chef table is running on port ${port}`)
 });
