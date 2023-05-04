@@ -1,0 +1,337 @@
+[ 
+     {    "id": 1,  
+       "name": "Zakir Khan",    
+       "chefPicture": "https://miro.medium.com/v2/resize:fit:817/0*8d0vB1EsR6RUtRny",   
+        "yearsOfExperience": 10,   
+        "numberOfRecipes": 75, 
+          "likes": 3000,  
+            "views": 50000 ,
+            "bio":"He borned in 1970 in Rajshahi.He is from an educated family.He has 5 siblings and among them he is the youngest.Currently he living in dhanmondi,Dhaka with his wife and 2 children. ",
+            "recipes":[
+                {
+                  "recipeName": "Chingri Bhorta",
+                  "ingredients":[ 
+                    "200g prawns" ,"1 onion", "1 green chili", "2 cloves garlic","1/4 cup chopped coriander leaves"],
+                  "cookingMethod": 
+                    "Peel and clean the prawns, and boil them in salted water for 5-6 minutes. Drain and set aside.Chop the onion, green chili, and garlic cloves finely.Heat mustard oil in a pan and sauté the chopped onion, green chili, and garlic until they turn golden brown.Add the boiled prawns, cumin powder, coriander powder, red chili powder, and salt to the pan, and mix everything together.Remove from heat and add the chopped coriander leaves.Mash everything together using a mortar and pestle, until you get a smooth paste.Serve the chingri bhorta with steamed rice or paratha.",
+                    "rating":4.5,
+                    "photo":"https://static.toiimg.com/thumb/59268557.cms?width=1200&height=900"
+                  
+                },
+                {
+                  "recipeName": "Bhapa Ilish",
+                  "ingredients": [
+                    "500g ilish fish",
+                    "1 onion",
+                    "1 tsp ginger paste",
+                    "1 tsp garlic paste",
+                    "2 green chilies"
+                    
+                  ],
+                  "cookingMethod": 
+                    "Clean and cut the ilish fish into pieces. Marinate the fish pieces with salt, turmeric powder, and red chili powder.Thinly slice the onion and green chilies.In a separate bowl, mix together the ginger paste, garlic paste, mustard oil, and coconut milk.Add the marinated fish pieces, sliced onion, and green chilies to the bowl, and mix everything together.Place the mixture in a baking dish, cover with foil, and steam for 15-20 minutes.Serve hot with steamed rice.",
+                    "rating":4.3,
+                    "photo":"https://images.lifestyleasia.com/wp-content/uploads/sites/7/2022/02/23130225/143161219_1635360043329270_8410434783012519616_n.jpg"
+                   
+                  
+                },
+                {
+                  "recipeName": "Shukto",
+                  "ingredients": [
+                    "1 bitter gourd",
+                    "1 raw banana",
+                    "1 sweet potato",
+                    "1 brinjal",
+                    "1/2 cup pumpkin"
+                    
+                  ],
+                  "cookingMethod": 
+                    "Cut all the vegetables into bite-sized pieces.Dry roast the mustard seeds, poppy seeds, and cumin seeds, and grind them into a fine paste.Heat mustard oil in a pan, and sauté the vegetables until they are half-cooked.Add the ground spice paste, turmeric powder, red chili powder, sugar, and salt to the pan, and mix everything together.Add enough water to cover the vegetables, and let it simmer on low heat for 10-15 minutes, until the vegetables are fully cooked and then serve it with salad.",
+                    "rating":4.6,
+                    "photo":"https://blogexplore.com/wp-content/uploads/2017/04/blogexplore.com-bengali-egg-curry-dimer-jhol-dalna.jpg"
+              
+             }
+            ]
+        },
+              {    "id": 2,  
+                "name": "Sadia Rashid",  
+                  "chefPicture": "https://media.istockphoto.com/id/1095955156/photo/female-chef-against-national-flag-of-bangladesh.jpg?s=170667a&w=0&k=20&c=1uNZUi7XJWn-y3byowqCeT_H6C5i_gaPqlZO7eDeCOw=",    
+                "yearsOfExperience": 15,   
+                 "numberOfRecipes": 100,   
+                  "likes": 5000,  
+                  "views": 80000 ,
+                  "bio":"She borned in 1970 in Rajshahi.She is from an educated family.She has 5 siblings and among them he is the youngest.Currently She living in dhanmondi,Dhaka with hes husband and 2 children. ",
+            "recipes":[
+                {
+                  "recipeName": "Goru mangso kosha",
+                  "ingredients":[ 
+                    "200g prawns" ,"1 onion", "1 green chili", "2 cloves garlic","1/4 cup chopped coriander leaves"],
+                  "cookingMethod": 
+                    "Peel and clean the prawns, and boil them in salted water for 5-6 minutes. Drain and set aside.Chop the onion, green chili, and garlic cloves finely.Heat mustard oil in a pan and sauté the chopped onion, green chili, and garlic until they turn golden brown.Add the boiled prawns, cumin powder, coriander powder, red chili powder, and salt to the pan, and mix everything together.Remove from heat and add the chopped coriander leaves.Mash everything together using a mortar and pestle, until you get a smooth paste.Serve the chingri bhorta with steamed rice or paratha.",
+                    "rating":4.8,
+                    "photo":"https://static.toiimg.com/thumb/59126197.cms?imgsize=344555&width=800&height=800"
+                  
+                },
+                {
+                  "recipeName": "kabab",
+                  "ingredients": [
+                    "500g ilish fish",
+                    "1 onion",
+                    "1 tsp ginger paste",
+                    "1 tsp garlic paste",
+                    "2 green chilies"
+                    
+                  ],
+                  "cookingMethod": 
+                    "Clean and cut the ilish fish into pieces. Marinate the fish pieces with salt, turmeric powder, and red chili powder.Thinly slice the onion and green chilies.In a separate bowl, mix together the ginger paste, garlic paste, mustard oil, and coconut milk.Add the marinated fish pieces, sliced onion, and green chilies to the bowl, and mix everything together.Place the mixture in a baking dish, cover with foil, and steam for 15-20 minutes.Serve hot with steamed rice.",
+                    "rating":4.6,
+                    "photo":"https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sibyl_sunitha/Bengali_Style_Sheem_Poshto_Recipe_Flat_Beans_in_Poppy_Seeds_.jpg"
+                  
+                },
+                {
+                  "recipeName": "Alu daal",
+                  "ingredients": [
+                    "1 bitter gourd",
+                    "1 raw banana",
+                    "1 sweet potato",
+                    "1 brinjal",
+                    "1/2 cup pumpkin"
+                    
+                  ],
+                  "cookingMethod": 
+                    "Cut all the vegetables into bite-sized pieces.Dry roast the mustard seeds, poppy seeds, and cumin seeds, and grind them into a fine paste.Heat mustard oil in a pan, and sauté the vegetables until they are half-cooked.Add the ground spice paste, turmeric powder, red chili powder, sugar, and salt to the pan, and mix everything together.Add enough water to cover the vegetables, and let it simmer on low heat for 10-15 minutes, until the vegetables are fully cooked and then serve it with salad.",
+                    "rating":4,
+                    "photo":"https://thumbs.dreamstime.com/b/pomfret-mustard-gravy-authentic-bengali-recipe-which-made-fish-curry-traditional-homemade-dish-196122602.jpg"
+              
+             }
+            ]
+        }, 
+        {   
+             "id": 3,   
+         "name": "Abdul Bari",  
+           "chefPicture": "https://ibtbd.net/wp-content/uploads/2019/11/Chef-Moniruzzaman.jpg",   
+            "yearsOfExperience": 20,    
+           "numberOfRecipes": 150,  
+          "likes": 8000,   
+         "views": 120000,
+         "bio":"He borned in 1970 in Rajshahi.He is from an educated family.He has 5 siblings and among them he is the youngest.Currently he living in dhanmondi,Dhaka with his wife and 2 children. " ,
+         "recipes":[
+            {
+                "recipeName": "Alu daal",
+                "ingredients": [
+                  "1 bitter gourd",
+                  "1 raw banana",
+                  "1 sweet potato",
+                  "1 brinjal",
+                  "1/2 cup pumpkin"
+                  
+                ],
+                "cookingMethod": 
+                  "Cut all the vegetables into bite-sized pieces.Dry roast the mustard seeds, poppy seeds, and cumin seeds, and grind them into a fine paste.Heat mustard oil in a pan, and sauté the vegetables until they are half-cooked.Add the ground spice paste, turmeric powder, red chili powder, sugar, and salt to the pan, and mix everything together.Add enough water to cover the vegetables, and let it simmer on low heat for 10-15 minutes, until the vegetables are fully cooked and then serve it with salad.",
+                  "rating":4,
+                  "photo":"https://thumbs.dreamstime.com/b/pomfret-mustard-gravy-authentic-bengali-recipe-which-made-fish-curry-traditional-homemade-dish-196122602.jpg"
+            
+           },
+           {
+            "recipeName": "Shukto",
+            "ingredients": [
+              "1 bitter gourd",
+              "1 raw banana",
+              "1 sweet potato",
+              "1 brinjal",
+              "1/2 cup pumpkin"
+              
+            ],
+            "cookingMethod": 
+              "Cut all the vegetables into bite-sized pieces.Dry roast the mustard seeds, poppy seeds, and cumin seeds, and grind them into a fine paste.Heat mustard oil in a pan, and sauté the vegetables until they are half-cooked.Add the ground spice paste, turmeric powder, red chili powder, sugar, and salt to the pan, and mix everything together.Add enough water to cover the vegetables, and let it simmer on low heat for 10-15 minutes, until the vegetables are fully cooked and then serve it with salad.",
+              "rating":4.6,
+              "photo":"https://blogexplore.com/wp-content/uploads/2017/04/blogexplore.com-bengali-egg-curry-dimer-jhol-dalna.jpg"
+        
+       },
+       {
+        "recipeName": "Bhapa Ilish",
+        "ingredients": [
+          "500g ilish fish",
+          "1 onion",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste",
+          "2 green chilies"
+          
+        ],
+        "cookingMethod": 
+          "Clean and cut the ilish fish into pieces. Marinate the fish pieces with salt, turmeric powder, and red chili powder.Thinly slice the onion and green chilies.In a separate bowl, mix together the ginger paste, garlic paste, mustard oil, and coconut milk.Add the marinated fish pieces, sliced onion, and green chilies to the bowl, and mix everything together.Place the mixture in a baking dish, cover with foil, and steam for 15-20 minutes.Serve hot with steamed rice.",
+          "rating":4.3,
+          "photo":"https://images.lifestyleasia.com/wp-content/uploads/sites/7/2022/02/23130225/143161219_1635360043329270_8410434783012519616_n.jpg"
+         
+        
+      }
+
+
+    ]
+  }, 
+           {    
+            "id": 4,  
+             "name": "Farhan Ahmed", 
+               "chefPicture": "https://iexaminer.org/wp-content/uploads/2019/03/Uddin-2-web.jpg",     
+               "yearsOfExperience": 8,   
+                "numberOfRecipes": 50,   
+             "likes": 2500,  
+               "views": 40000,
+               "bio":"He borned in 1970 in Rajshahi.He is from an educated family.He has 5 siblings and among them he is the youngest.Currently he living in dhanmondi,Dhaka with his wife and 2 children. " ,
+               "recipes":[
+                {
+                  "recipeName": "Chingri Bhorta",
+                  "ingredients":[ 
+                    "200g prawns" ,"1 onion", "1 green chili", "2 cloves garlic","1/4 cup chopped coriander leaves"],
+                  "cookingMethod": 
+                    "Peel and clean the prawns, and boil them in salted water for 5-6 minutes. Drain and set aside.Chop the onion, green chili, and garlic cloves finely.Heat mustard oil in a pan and sauté the chopped onion, green chili, and garlic until they turn golden brown.Add the boiled prawns, cumin powder, coriander powder, red chili powder, and salt to the pan, and mix everything together.Remove from heat and add the chopped coriander leaves.Mash everything together using a mortar and pestle, until you get a smooth paste.Serve the chingri bhorta with steamed rice or paratha.",
+                    "rating":4.5,
+                    "photo":"https://static.toiimg.com/thumb/59268557.cms?width=1200&height=900"
+                  
+                },
+                {
+                  "recipeName": "Bhapa Ilish",
+                  "ingredients": [
+                    "500g ilish fish",
+                    "1 onion",
+                    "1 tsp ginger paste",
+                    "1 tsp garlic paste",
+                    "2 green chilies"
+                    
+                  ],
+                  "cookingMethod": 
+                    "Clean and cut the ilish fish into pieces. Marinate the fish pieces with salt, turmeric powder, and red chili powder.Thinly slice the onion and green chilies.In a separate bowl, mix together the ginger paste, garlic paste, mustard oil, and coconut milk.Add the marinated fish pieces, sliced onion, and green chilies to the bowl, and mix everything together.Place the mixture in a baking dish, cover with foil, and steam for 15-20 minutes.Serve hot with steamed rice.",
+                    "rating":4.3,
+                    "photo":"https://images.lifestyleasia.com/wp-content/uploads/sites/7/2022/02/23130225/143161219_1635360043329270_8410434783012519616_n.jpg"
+                   
+                  
+                },
+                {
+                  "recipeName": "Shukto",
+                  "ingredients": [
+                    "1 bitter gourd",
+                    "1 raw banana",
+                    "1 sweet potato",
+                    "1 brinjal",
+                    "1/2 cup pumpkin"
+                    
+                  ],
+                  "cookingMethod": 
+                    "Cut all the vegetables into bite-sized pieces.Dry roast the mustard seeds, poppy seeds, and cumin seeds, and grind them into a fine paste.Heat mustard oil in a pan, and sauté the vegetables until they are half-cooked.Add the ground spice paste, turmeric powder, red chili powder, sugar, and salt to the pan, and mix everything together.Add enough water to cover the vegetables, and let it simmer on low heat for 10-15 minutes, until the vegetables are fully cooked and then serve it with salad.",
+                    "rating":4.6,
+                    "photo":"https://blogexplore.com/wp-content/uploads/2017/04/blogexplore.com-bengali-egg-curry-dimer-jhol-dalna.jpg"
+              
+             }
+            ]
+                },  
+                {   
+             "id": 5,  
+          "name": "Shakil Ahmed",  
+            "chefPicture": "https://media.licdn.com/dms/image/C5603AQGLluqwuKFG9g/profile-displayphoto-shrink_800_800/0/1642929855353?e=2147483647&v=beta&t=GpBjvpRaF-8LcIrNfILexr5GuiqfLfFjbc1lECCmf6k",    "yearsOfExperience": 12,  
+          "numberOfRecipes": 80, 
+           "likes": 4500,  
+          "views": 70000 ,
+          "bio":"He borned in 1970 in Rajshahi.He is from an educated family.He has 5 siblings and among them he is the youngest.Currently he living in dhanmondi,Dhaka with his wife and 2 children. ",
+          "recipes":[
+            {
+              "recipeName": "Roast",
+              "ingredients":[ 
+                "200g prawns" ,"1 onion", "1 green chili", "2 cloves garlic","1/4 cup chopped coriander leaves"],
+              "cookingMethod": 
+                "Peel and clean the prawns, and boil them in salted water for 5-6 minutes. Drain and set aside.Chop the onion, green chili, and garlic cloves finely.Heat mustard oil in a pan and sauté the chopped onion, green chili, and garlic until they turn golden brown.Add the boiled prawns, cumin powder, coriander powder, red chili powder, and salt to the pan, and mix everything together.Remove from heat and add the chopped coriander leaves.Mash everything together using a mortar and pestle, until you get a smooth paste.Serve the chingri bhorta with steamed rice or paratha.",
+                "rating":4.8,
+                "photo":"https://www.foodieshut.com/wp-content/uploads/2021/06/Murgir-Jhol-igtv.jpg"
+              
+            },
+            {
+              "recipeName": "Birani",
+              "ingredients": [
+                "500g ilish fish",
+                "1 onion",
+                "1 tsp ginger paste",
+                "1 tsp garlic paste",
+                "2 green chilies"
+                
+              ],
+              "cookingMethod": 
+                "Clean and cut the ilish fish into pieces. Marinate the fish pieces with salt, turmeric powder, and red chili powder.Thinly slice the onion and green chilies.In a separate bowl, mix together the ginger paste, garlic paste, mustard oil, and coconut milk.Add the marinated fish pieces, sliced onion, and green chilies to the bowl, and mix everything together.Place the mixture in a baking dish, cover with foil, and steam for 15-20 minutes.Serve hot with steamed rice.",
+                "rating":4.6,
+                "photo":"https://www.indiafoodnetwork.in/wp-content/uploads/2020/08/Bengali-recipes.jpg"
+              
+            },
+            {
+              "recipeName": "Dim chop",
+              "ingredients": [
+                "1 bitter gourd",
+                "1 raw banana",
+                "1 sweet potato",
+                "1 brinjal",
+                "1/2 cup pumpkin"
+                
+              ],
+              "cookingMethod": 
+                "Cut all the vegetables into bite-sized pieces.Dry roast the mustard seeds, poppy seeds, and cumin seeds, and grind them into a fine paste.Heat mustard oil in a pan, and sauté the vegetables until they are half-cooked.Add the ground spice paste, turmeric powder, red chili powder, sugar, and salt to the pan, and mix everything together.Add enough water to cover the vegetables, and let it simmer on low heat for 10-15 minutes, until the vegetables are fully cooked and then serve it with salad.",
+                "rating":4,
+                "photo":"https://foodiesterminal.com/wp-content/uploads/2019/12/doi-potol-bengali-recipe-1-679x1024.jpg"
+          
+         }
+        ]
+
+
+    },  
+           {    
+            "id": 6,  
+          "name": "Nazib Rahman",   
+           "chefPicture": "https://media.licdn.com/dms/image/D5603AQEP1NGaBLMAew/profile-displayphoto-shrink_800_800/0/1665861249872?e=2147483647&v=beta&t=IN8jIpTW1BnhSCWhc4m9zKll5TKZe3GEz9r8xQLdZz0",    "yearsOfExperience": 5,
+        "numberOfRecipes": 30, 
+          "likes": 1500,    
+          "views": 25000,
+          "bio":"He borned in 1970 in Rajshahi.He is from an educated family.He has 5 siblings and among them he is the youngest.Currently he living in dhanmondi,Dhaka with his wife and 2 children. ",  
+          "recipes":[
+            {
+                "recipeName": "Khashi Kosha",
+                "ingredients":[ 
+                  "200g prawns" ,"1 onion", "1 green chili", "2 cloves garlic","1/4 cup chopped coriander leaves"],
+                "cookingMethod": 
+                  "Peel and clean the prawns, and boil them in salted water for 5-6 minutes. Drain and set aside.Chop the onion, green chili, and garlic cloves finely.Heat mustard oil in a pan and sauté the chopped onion, green chili, and garlic until they turn golden brown.Add the boiled prawns, cumin powder, coriander powder, red chili powder, and salt to the pan, and mix everything together.Remove from heat and add the chopped coriander leaves.Mash everything together using a mortar and pestle, until you get a smooth paste.Serve the chingri bhorta with steamed rice or paratha.",
+                  "rating":4.8,
+                  "photo":"https://pikturenama.com/wp-content/uploads/2020/07/low-res-Murgir-Jhol-2.jpg"
+                
+              },
+              {
+                "recipeName": "Sutki",
+                "ingredients": [
+                  "500g ilish fish",
+                  "1 onion",
+                  "1 tsp ginger paste",
+                  "1 tsp garlic paste",
+                  "2 green chilies"
+                  
+                ],
+                "cookingMethod": 
+                  "Clean and cut the ilish fish into pieces. Marinate the fish pieces with salt, turmeric powder, and red chili powder.Thinly slice the onion and green chilies.In a separate bowl, mix together the ginger paste, garlic paste, mustard oil, and coconut milk.Add the marinated fish pieces, sliced onion, and green chilies to the bowl, and mix everything together.Place the mixture in a baking dish, cover with foil, and steam for 15-20 minutes.Serve hot with steamed rice.",
+                  "rating":4.6,
+                  "photo":"https://kitchenofdebjani.com/wp-content/uploads/2022/07/Bengali-Labra-Tarkari-Recipe-debjanir-rannaghar.jpg"
+                
+              },
+              {
+                "recipeName": "Begun Vhaja",
+                "ingredients": [
+                  "1 bitter gourd",
+                  "1 raw banana",
+                  "1 sweet potato",
+                  "1 brinjal",
+                  "1/2 cup pumpkin"
+                  
+                ],
+                "cookingMethod": 
+                  "Cut all the vegetables into bite-sized pieces.Dry roast the mustard seeds, poppy seeds, and cumin seeds, and grind them into a fine paste.Heat mustard oil in a pan, and sauté the vegetables until they are half-cooked.Add the ground spice paste, turmeric powder, red chili powder, sugar, and salt to the pan, and mix everything together.Add enough water to cover the vegetables, and let it simmer on low heat for 10-15 minutes, until the vegetables are fully cooked and then serve it with salad.",
+                  "rating":4,
+                  "photo":"https://cdn.tarladalal.com/members/9306/big/big_baingan_bhaja,_bengali_begun_bhaja-10978.jpg"
+            
+           }
+          
+
+          ]
+          }
+        ]
